@@ -8,3 +8,8 @@
 	url = https://github.com/statismike/shiny.reglog
 	shallow = true
 	registered = true
+[submodule "stenR"]
+	path = stenR
+	url = https://github.com/statismike/stenr
+	shallow = true
+	registered = true

@@ -2,5 +2,9 @@
   {
     "package": "shiny.reglog",
     "oncran": true
+  },
+  {
+    "package": "stenR",
+    "oncran": true
   }
 ]
