@@ -1,10 +1,10 @@
 [
   {
-    "package": "stenR",
+    "package": "shiny.reglog",
     "oncran": true
   },
   {
-    "package": "shiny.reglog",
+    "package": "stenR",
     "oncran": true
   }
 ]
