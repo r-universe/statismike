@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "shiny.reglog"]
-	path = shiny.reglog
-	url = https://github.com/statismike/shiny.reglog
-	shallow = true
-	registered = true
 [submodule "stenR"]
 	path = stenR
 	url = https://github.com/statismike/stenr
+	shallow = true
+	registered = true
+[submodule "shiny.reglog"]
+	path = shiny.reglog
+	url = https://github.com/statismike/shiny.reglog
 	shallow = true
 	registered = true
